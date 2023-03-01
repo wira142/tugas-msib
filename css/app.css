@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.running-text {
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 10px 0;
+}
