@@ -8,3 +8,8 @@
   font-weight: bold;
   padding: 10px 0;
 }
+.header {
+  background-color: aquamarine;
+  padding: 10px;
+  height: 20vmax;
+}
